@@ -73,9 +73,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url:  "https://github.com/egilder"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      url:  "https://gitlab.com/egilder"
+    #- label: "GitLab"
+    #  icon: "fab fa-fw fa-gitlab"
+    #  url:  "https://gitlab.com/egilder"
 
 
 defaults:
