@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ellie's Github Blog
+title: Ellie Online
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Just a simple tech blog with no real direction.
 twitter_username: 
 github_username: egilder
-minimal_mistakes_skin: air
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -51,14 +51,14 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jemoji
   - jekyll-include-cache
 
 author:
   name   : "Ellie Gilder"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm just a simple Dev trying to make my way in the universe."
+  bio    : "A simple Geek trying to make my way in the universe."
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
@@ -70,9 +70,9 @@ author:
 
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url:  "https://github.com/egilder"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url:  "https://github.com/egilder"
     #- label: "GitLab"
     #  icon: "fab fa-fw fa-gitlab"
     #  url:  "https://gitlab.com/egilder"
