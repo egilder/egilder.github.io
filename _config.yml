@@ -16,7 +16,7 @@
 title: Ellie'isms
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Just a simple tech blog with no real direction.
+  Just a simple blog with no real direction.
 twitter_username: 
 github_username: egilder
 minimal_mistakes_skin: dark
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Ellie Gilder"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A simple Nerd trying to make my way in the universe, one pull at a time."
+  bio    : "A simple nerd trying to make my way in the universe."
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
