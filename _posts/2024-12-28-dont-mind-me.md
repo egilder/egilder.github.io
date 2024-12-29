@@ -1,0 +1,13 @@
+---
+title: "Don't Mind Me..."
+last_modified_at: 
+categories:
+  - Blog
+tags:
+  - personal progress
+  - professional progress
+---
+
+Welp, in typical fashion one project leads to another, which leads to... oblivion. Trying to plan out personal projects and then actually executing on them is far more difficult than I ever would have wanted to admit. Due to life getting in the way, plus personal/professional burnout being a real thing, I have decided to step back into the homelab/just do it phase again. I have been wanting to try to get back into honestly loving technology again, which has just been really hard. One can never underestimate what kind of self sabotage you can do really do until you're looking up from the proverbial rock bottom. As someone who truly loves to tinker around and not be "at rest" it's been far easier to slip in the the monotony of staying distracted. Almost a decade ago I can remember spending long hours after getting home on my personal projects. I would be up until early hours of the morning, even on typical work nights, all because I had an itch to try something. But over the years and some of the career changes I have found myself in a "bland" spot. Sure I am good at what I do on a day to day basis but at my core I hate that I have pretty much stagnated in not only a career forward mentality, but also on a personal one.
+
+Since I am wanting to get more out of what I do I believe I need to leverage this project to actually further refine my homelab/career progression in the meantime. I find that when I am able to do the "show and tell" on things I just learned or can "teach" someone about it in general that I find myself retain the information better. Not only that but I also wouldn't mind having a digital "archive" so to speak of where I was when I really did try to push ahead. At this point I have bit and pieces of what I would like to learn, but at the same time I need to figure out "what I want to be when I grow up". My default has been trying to be some sort of programmer, but I think I'm starting to come to the realization that I would be to bored with just that. Within my last couple of jobs I have found that I not only like the setup of things (think like architect) but also the integration and automation of things. While I am still trying to figure everything out, I will truly be aiming for [DevOps](https://www.atlassian.com/devops).

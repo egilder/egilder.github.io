@@ -3,4 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-I am an aspiring coder, and automation enthusiast . This is one of those such projects, it's not a large project, but it's my project. If anything, it's for fun, a passion project if you will, but a project none the less. 
+I am passionate about technology and the pursuit of learning *especially* when learning the new technologies. Though I may start more projects then I finish, I never have stopped enjoying doing them. I tinker with a little bit of everything I can try at least once, from programming to automation.
+
+I am hoping to use this site for my own personal random ramblings as well as to help me further my own career with projects as well as just trying to stay relevant in the IT field.

@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ellie'isms
+title: "Ellie'isms worth recording"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Just a simple blog with no real direction.
+  Just a project with no real direction.
 twitter_username: 
 github_username: egilder
 minimal_mistakes_skin: dark
@@ -51,14 +51,16 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  #- jekyll-feed
+  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
 author:
   name   : "Ellie Gilder"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A simple nerd trying to make my way in the universe."
+  bio    : "Jill of all trades, master of **some**""
+  location: "Minneapolis–Saint Paul, MN, USA "
+  
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
@@ -66,16 +68,19 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/egilder"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ellie-g-b37658270/"
 
 
 footer:
   links:
-    #- label: "GitHub"
-    #  icon: "fab fa-fw fa-github"
-    #  url:  "https://github.com/egilder"
-    #- label: "GitLab"
-    #  icon: "fab fa-fw fa-gitlab"
-    #  url:  "https://gitlab.com/egilder"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/egilder"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ellie-g-b37658270/"
 
 
 defaults:
