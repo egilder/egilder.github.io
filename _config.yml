@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Ellie Gilder"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Jill of all trades, master of **some**""
+  bio    : "Jill of all trades, master of **some**"
   location: "Minneapolis–Saint Paul, MN, USA "
   
   links:
