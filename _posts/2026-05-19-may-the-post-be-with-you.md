@@ -1,0 +1,15 @@
+---
+title: "May the post be with you"
+last_modified_at: 
+categories:
+  - Blog
+tags:
+  - personal progress
+  - rant
+---
+
+It's funny what happens when you leave a toxic job to start a new job that is not operating at the same "there's fires everywhere" pace. You're able to slowly get away from burnout, and actually get back into doing things that you deem "fun". I went out and bought a [Wio Tracker L1 Pro](https://www.amazon.com/dp/B0FNCS5ST1?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) to test out [Meshtastic](https://meshtastic.org/) and [MeshCore](https://meshcore.io/) which are off-grid mesh communications system. Where I live is what you could consider the boonies for technology, far enough away from bigger cities to not have density but instead have wide open fields with long sight lines. The initial setup of the Wio Tracker device was turn on and check it out. The sad part was there was not much to check out as it relies on (about 5 miles radius) other devices to connect to and retransmit. Meshtastic or MeshCore yielded the same results, I was a lone device in a vast emptiness of space. Hopefully at some point I can make my way into the bigger network setups to establish some contacts. In reality this was my first attempt at doing something similar to [Ham Radio](https://en.wikipedia.org/wiki/Amateur_radio) just with far lest cost and capabilities.
+
+Over the years I have worked for many different Managed Service Providers (MSPs) and sometimes you get decommissioned hardware back that would normally go to waste. Years ago I picked up an old Datto mini PC and had turned it into [Proxmox](https://www.proxmox.com) server. It was great due to it's small form factor and low power footprint. The only downfall was that it had 8 GB of RAM which didn't allow me to set up any larger VM's. So while I was doing some spring cleaning in my basement I found an old computer that had more then enough capabilities to replace it. Finding not 1 but 2 older PC's that I was able to cannibalize the drives, RAM and hard drives from was perfect as it allowed me to get to a better build out of my random parts. I now have an 8x Intel Core i7-4790 CPU @3.60 GHz (1 Socket), 32 GB of RAM, 250 SSD Drive (for the OS) and 3 TB worth of drives configured for a ZFS pool in RAIDZ configuration. While the desktop form factor is much larger, the fact that I can have multiple things virtualized and not having to worry about resources was worth the effort.
+
+One thing I am trying to get back into is more "coding" projects, even if they're a waste of time. I love to configure automation and things at home purely for fun. I'm still not sure what I want to be when I grow up, but I sure hope that any of my trial and error projects I do at home help point me to a better direction. So here's to hoping that I can not only find/make time for things but maybe find a way to get involved with others in the same position within the communities I am aware of.
